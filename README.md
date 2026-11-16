@@ -15,7 +15,7 @@ terraform plan -out=tfplan
 terraform apply tfplan
 ```
 
-Use `Environment/Q.A` or `Environment/production` instead of `Environment/Dev` to deploy another environment.
+You will need to use`Environment/Q.A` or `Environment/production` instead of `Environment/Dev` to deploy another environment.
 
 ## Notes
 
